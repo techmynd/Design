@@ -1,0 +1,9 @@
+
+Color scheme generator
+https://coolors.co
+This can lock colors and randomize remaining and also you can import shape of colors
+
+css gradients
+https://uigradients.com/#Frozen
+https://www.cssmatic.com/gradient-generator
+https://cssgradient.io/
